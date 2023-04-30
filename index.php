@@ -16,7 +16,7 @@ include("marco-right.php");
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
-                Posteado por:  Stalin Francis<br>
+                Posteado por: Favio Alvarado <br>
                 Fecha: 2021-08-17 <br>
           </div>
         </div>
